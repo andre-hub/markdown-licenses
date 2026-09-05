@@ -22,45 +22,45 @@ a different licensing arrangement.
 
 ### Definitions
 
-“Copyright Holder” means the individual(s) or organization(s)
+"Copyright Holder" means the individual(s) or organization(s)
 named in the copyright notice for the entire Package.
 
-“Contributor” means any party that has contributed code or other
+"Contributor" means any party that has contributed code or other
 material to the Package, in accordance with the Copyright Holder's
 procedures.
 
-“You” and “your” means any person who would like to copy,
+"You" and "your" means any person who would like to copy,
 distribute, or modify the Package.
 
-“Package” means the collection of files distributed by the
+"Package" means the collection of files distributed by the
 Copyright Holder, and derivatives of that collection and/or of
 those files. A given Package may consist of either the Standard
 Version, or a Modified Version.
 
-“Distribute” means providing a copy of the Package or making it
+"Distribute" means providing a copy of the Package or making it
 accessible to anyone else, or in the case of a company or
 organization, to others outside of your company or organization.
 
-“Distributor Fee” means any fee that you charge for Distributing
+"Distributor Fee" means any fee that you charge for Distributing
 this Package or providing support for this Package to another
 party.  It does not mean licensing fees.
 
-“Standard Version” refers to the Package if it has not been
+"Standard Version" refers to the Package if it has not been
 modified, or has been modified only in ways explicitly requested
 by the Copyright Holder.
 
-“Modified Version” means the Package, if it has been changed, and
+"Modified Version" means the Package, if it has been changed, and
 such changes were not explicitly requested by the Copyright
 Holder. 
 
-“Original License” means this Artistic License as Distributed with
+"Original License" means this Artistic License as Distributed with
 the Standard Version of the Package, in its current version or as
 it may be modified by The Perl Foundation in the future.
 
-“Source” form means the source code, documentation source, and
+"Source" form means the source code, documentation source, and
 configuration files for the Package.
 
-“Compiled” form means the compiled bytecode, object code, binary,
+"Compiled" form means the compiled bytecode, object code, binary,
 or any other form resulting from mechanical transformation or
 translation of the Source form.
 
@@ -107,14 +107,14 @@ from the name of the Standard Version.
 * **(c)**  allow anyone who receives a copy of the Modified Version to
 make the Source form of the Modified Version available to others
 under
-	* **(i)**  the Original License or
-	* **(ii)**  a license that permits the licensee to freely copy,
-	modify and redistribute the Modified Version using the same
-	licensing terms that apply to the copy that the licensee
-	received, and requires that the Source form of the Modified
-	Version, and of any works derived from it, be made freely
-	available in that license fees are prohibited but Distributor
-	Fees are allowed.
+    * **(i)**  the Original License or
+    * **(ii)**  a license that permits the licensee to freely copy,
+    modify and redistribute the Modified Version using the same
+    licensing terms that apply to the copy that the licensee
+    received, and requires that the Source form of the Modified
+    Version, and of any works derived from it, be made freely
+    available in that license fees are prohibited but Distributor
+    Fees are allowed.
 
 
 ### Distribution of Compiled Forms of the Standard Version 
